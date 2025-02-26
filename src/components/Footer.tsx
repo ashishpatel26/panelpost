@@ -32,7 +32,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li>+91 94270 27561</li>
               <li>+91 98247 78855</li>
-              <li>panelpost6@gmail.com</li>
+              <li>panelpost19@gmail.com</li>
             </ul>
           </div>
         </div>
